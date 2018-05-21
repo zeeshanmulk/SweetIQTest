@@ -1,4 +1,5 @@
 //@auth Zeeshan Mulk
+//Date: 21st May, 2018
 //Simple function to test four operators (+, -, *, /)
 //Checks for invalid ops and division by zero.
 
